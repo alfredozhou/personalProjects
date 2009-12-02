@@ -247,7 +247,7 @@
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_5" assert-keyword="true" jdk-15="true" project-jdk-name="1.6" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/war/WEB-INF/classes" />
+    <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="ResourceManagerContainer">
     <option name="myResourceBundles">
@@ -287,10 +287,11 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="spring-2.0.7">
+    <library name="spring-2.5.6">
       <CLASSES>
         <root url="jar://$PROJECT_DIR$/lib/spring.jar!/" />
-        <root url="jar://$PROJECT_DIR$/lib/commons-logging_1.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/commons-logging.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/spring-webmvc.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
