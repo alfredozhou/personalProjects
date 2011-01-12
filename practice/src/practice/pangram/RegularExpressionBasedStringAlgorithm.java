@@ -1,4 +1,4 @@
-package practice;
+package practice.pangram;
 
 import java.util.LinkedHashSet;
 import java.util.List;

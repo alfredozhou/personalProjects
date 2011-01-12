@@ -72,19 +72,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HashSetBasedStringAlgorithm.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/practice/HashSetBasedStringAlgorithm.java">
+      <file leaf-file-name="CharactersBasedStringAlgorithm.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/practice/pangram/CharactersBasedStringAlgorithm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="8" selection-start="770" selection-end="770" vertical-scroll-proportion="0.70598006">
+            <state line="26" column="34" selection-start="807" selection-end="807" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RegularExpressionBasedStringAlgorithm.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/practice/RegularExpressionBasedStringAlgorithm.java">
+      <file leaf-file-name="Animation.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/practice/animation/Animation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="68" selection-start="783" selection-end="783" vertical-scroll-proportion="0.0">
+            <state line="8" column="29" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Chamber.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/practice/animation/Chamber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="25" selection-start="1285" selection-end="1285" vertical-scroll-proportion="0.41615668">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,37 +101,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="String.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_21/src.zip!/java/lang/String.java">
+      <file leaf-file-name="Particle.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/practice/animation/Particle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2336" column="7" selection-start="89564" selection-end="89564" vertical-scroll-proportion="0.0">
+            <state line="19" column="30" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnimationTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/practice/animation/AnimationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="38" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="RegularExpressionBasedStringAlgorithmTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/practice/RegularExpressionBasedStringAlgorithmTest.java">
+        <entry file="file://$PROJECT_DIR$/test/practice/pangram/RegularExpressionBasedStringAlgorithmTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="41" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractStringAlgorithmTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/practice/AbstractStringAlgorithmTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="9" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HashSetBasedStringAlgorithmTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/practice/HashSetBasedStringAlgorithmTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="36" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0">
+            <state line="8" column="41" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -138,7 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/practice/StringLeftOvers.java" />
         <option value="$PROJECT_DIR$/src/practice/StringLeftOvers2.java" />
         <option value="$PROJECT_DIR$/test/practice/StringLeftOversTest.java" />
         <option value="$PROJECT_DIR$/test/practice/StringWithHashSetTest.java" />
@@ -147,8 +148,14 @@
         <option value="$PROJECT_DIR$/test/practice/AbstractStringAlgorithmTest.java" />
         <option value="$PROJECT_DIR$/test/practice/HashSetBasedStringAlgorithmTest.java" />
         <option value="$PROJECT_DIR$/test/practice/RegularExpressionBasedStringAlgorithmTest.java" />
-        <option value="$PROJECT_DIR$/src/practice/HashSetBasedStringAlgorithm.java" />
         <option value="$PROJECT_DIR$/src/practice/RegularExpressionBasedStringAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/practice/HashSetBasedStringAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/practice/CharactersBasedStringAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/practice/Animation.java" />
+        <option value="$PROJECT_DIR$/test/practice/animation/AnimationTest.java" />
+        <option value="$PROJECT_DIR$/src/practice/animation/Animation.java" />
+        <option value="$PROJECT_DIR$/src/practice/animation/Particle.java" />
+        <option value="$PROJECT_DIR$/src/practice/animation/Chamber.java" />
       </list>
     </option>
   </component>
@@ -222,6 +229,32 @@
               <option name="myItemId" value="practice" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pangram" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -238,6 +271,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pangram" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -274,7 +333,7 @@
       <recent name="practice" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.HashSetBasedStringAlgorithmTest">
+  <component name="RunManager" selected="JUnit.AnimationTest.shouldWork">
     <configuration default="false" name="AbstractStringAlgorithmTest.CanFindLeftOvers" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false">
         <pattern>
@@ -285,8 +344,8 @@
       <module name="practice" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="practice" />
-      <option name="MAIN_CLASS_NAME" value="practice.AbstractStringAlgorithmTest" />
+      <option name="PACKAGE_NAME" value="practice.pangram" />
+      <option name="MAIN_CLASS_NAME" value="practice.pangram.AbstractStringAlgorithmTest" />
       <option name="METHOD_NAME" value="CanFindLeftOvers" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
@@ -313,8 +372,8 @@
       <module name="practice" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="practice" />
-      <option name="MAIN_CLASS_NAME" value="practice.RegularExpressionBasedStringAlgorithmTest" />
+      <option name="PACKAGE_NAME" value="practice.pangram" />
+      <option name="MAIN_CLASS_NAME" value="practice.pangram.RegularExpressionBasedStringAlgorithmTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -331,7 +390,7 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="HashSetBasedStringAlgorithmTest" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="CharactersBasedStringAlgorithmTest" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false">
         <pattern>
           <option name="PATTERN" value="practice.*" />
@@ -341,8 +400,8 @@
       <module name="practice" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="practice" />
-      <option name="MAIN_CLASS_NAME" value="practice.HashSetBasedStringAlgorithmTest" />
+      <option name="PACKAGE_NAME" value="practice.pangram" />
+      <option name="MAIN_CLASS_NAME" value="practice.pangram.CharactersBasedStringAlgorithmTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -356,6 +415,40 @@
       <envs />
       <patterns />
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AnimationTest.shouldWork" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false">
+        <pattern>
+          <option name="PATTERN" value="practice.animation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="practice" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="practice.animation" />
+      <option name="MAIN_CLASS_NAME" value="practice.animation.AnimationTest" />
+      <option name="METHOD_NAME" value="shouldWork" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51699" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -499,10 +592,11 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="JUnit.StringLeftOversTest.CanFindLeftOvers" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.RegularExpressionBasedStringAlgorithmTest" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.HashSetBasedStringAlgorithmTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.AnimationTest.shouldWork" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -541,7 +635,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33511207" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -550,10 +644,10 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24986653" sideWeight="0.67129135" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24986653" sideWeight="0.90074706" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24933262" sideWeight="0.67129135" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32870865" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24933262" sideWeight="0.90074706" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09925293" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -617,14 +711,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/StringAlgorithm.java">
+    <entry file="file://$PROJECT_DIR$/src/practice/pangram/StringAlgorithm.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="17" selection-start="61" selection-end="61" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/practice/AbstractStringAlgorithmTest.java">
+    <entry file="file://$PROJECT_DIR$/test/practice/pangram/AbstractStringAlgorithmTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="9" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0">
           <folding />
@@ -645,33 +739,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/practice/HashSetBasedStringAlgorithmTest.java">
+    <entry file="file://$PROJECT_DIR$/test/practice/pangram/CharactersBasedStringAlgorithmTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="36" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0">
+        <state line="8" column="39" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/practice/RegularExpressionBasedStringAlgorithmTest.java">
+    <entry file="file://$PROJECT_DIR$/test/practice/pangram/RegularExpressionBasedStringAlgorithmTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="41" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
+        <state line="8" column="41" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/RegularExpressionBasedStringAlgorithm.java">
+    <entry file="file://$PROJECT_DIR$/src/practice/pangram/CharactersBasedStringAlgorithm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="68" selection-start="783" selection-end="783" vertical-scroll-proportion="0.0">
+        <state line="26" column="34" selection-start="807" selection-end="807" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/pangram/RegularExpressionBasedStringAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="86" selection-start="713" selection-end="718" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/HashSetBasedStringAlgorithm.java">
+    <entry file="file://$PROJECT_DIR$/test/practice/animation/AnimationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="8" selection-start="770" selection-end="770" vertical-scroll-proportion="0.70598006">
+        <state line="19" column="38" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/animation/Particle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="30" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/animation/Animation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="29" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/animation/Chamber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="25" selection-start="1285" selection-end="1285" vertical-scroll-proportion="0.41615668">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

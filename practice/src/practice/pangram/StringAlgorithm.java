@@ -1,4 +1,4 @@
-package practice;
+package practice.pangram;
 
 /**
  * Date: 1/12/11

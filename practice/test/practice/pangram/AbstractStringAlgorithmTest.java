@@ -1,6 +1,7 @@
-package practice;
+package practice.pangram;
 
 import org.junit.Test;
+import practice.pangram.StringAlgorithm;
 
 import static org.hamcrest.CoreMatchers.equalTo;
 import static org.junit.Assert.assertThat;
